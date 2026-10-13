@@ -18,7 +18,7 @@
 |:---:|---|---|
 | 🧩 | **[BetterNTE](https://github.com/sglwsjxh/BetterNTE)** | A better NTE — Neverness to Everness |
 | 🎬 | **[bilibili-video-downloader](https://github.com/sglwsjxh/bilibili-video-downloader)** | Browser extension for downloading Bilibili videos, built for Windows users |
-| 📚 | **[chinese-novel-write](https://github.com/sglwsjxh/chinese-novel-write)** | Let AI write you a complete Chinese novel |
+| 📚 | **[dsh-mem](https://github.com/sglwsjxh/dsh-mem)** | A memory plugin for dsh, storing memories via RAG vector storage |
 | 🖼️ | **[dynamic-wallpaper](https://github.com/sglwsjxh/dynamic-wallpaper)** | A simple dynamic desktop wallpaper app for Windows |
 | 🤖 | **[ffix](https://github.com/sglwsjxh/ffix)** | Typed the wrong command? Let AI clean up the mess |
 | 🛰️ | **[Open-Copilot-Proxy/Copilot_Proxy](https://github.com/Open-Copilot-Proxy/Copilot_Proxy)** | A self-hosted proxy that converts the GitHub Copilot API into an OpenAI or Anthropic or Gemini compatible endpoint. Features automatic OAuth authentication, token refresh, and request forwarding |
